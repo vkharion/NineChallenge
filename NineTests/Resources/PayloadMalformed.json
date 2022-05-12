@@ -1,0 +1,310 @@
+{
+  "id": 67184313,
+  "categories": [],
+  "authors": [],
+  "url": "/content/dam/lists/1/3/z/z/q/x/list.html",
+  "lastModified": 1651835767736,
+  "onTime": 1425955024417,
+  "sponsored": false,
+  "displayName": "AFR iPad Editor's Choice",
+  "assets": [
+    {
+      "id???": 1520543416,
+      "categories": [
+        {
+          "name": "Personal Finance",
+          "sectionPath": "/personal-finance",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Christopher Joye",
+          "title": "Columnist",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030318710,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/f/b/0/6/image.imgtype.afrWoodcutAuthorImage.140x140.png/1560320067178.png",
+              "lastModified": 1560320067178,
+              "sponsored": false,
+              "description": " ",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1560320067178
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/personal-finance/house-prices-to-correct-up-to-25pc-20220505-p5ait4",
+      "lastModified": 1651806492150,
+      "sponsored": false,
+      "headline": "House prices to fall up to 25pc",
+      "indexHeadline": "House prices to fall up to 25pc",
+      "tabletHeadline": "",
+      "theAbstract": "If the RBA relies on its worthless forecasts, prepare for a truly massive fall in house prices.",
+      "byLine": "Christopher Joye",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520541845,
+          "categories": [
+            {
+              "name": "Residential",
+              "sectionPath": "/real-estate/residential",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Nila Sweeney",
+              "title": "Reporter",
+              "email": "nila.sweeney@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": []
+            }
+          ],
+          "url": "http://www.afr.com/real-estate/residential/property-price-falls-to-accelerate-sydney-falls-for-third-month-20220501-p5ahlh",
+          "lastModified": 1651482521200,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Property price falls to accelerate, Sydney drops for third month",
+          "timeStamp": 1651444666000
+        },
+        {
+          "id": 1520542900,
+          "categories": [
+            {
+              "name": "Budget",
+              "sectionPath": "/news/policy/budget",
+              "orderNum": 1
+            },
+            {
+              "name": "Economy",
+              "sectionPath": "/news/economy",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "John Kehoe",
+              "title": "Senior Writer",
+              "email": "jkehoe@afr.com ",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030192041,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/9/l/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553046200666.png",
+                  "lastModified": 1553046200666,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553046200666
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/policy/budget/parties-told-the-budget-needs-fixing-to-cool-inflation-and-rate-rises-20220503-p5aies",
+          "lastModified": 1651701526580,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Budget blowout driving up rates",
+          "timeStamp": 1651652309000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030920630,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/7/g/6/image.related.wideLandscape.1500x844.p5ait4.13zzqx.png/1651835767736.jpg",
+          "lastModified": 1605408448606,
+          "sponsored": false,
+          "description": "House prices will correct as rates go up.",
+          "photographer": " ",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1605408448606
+        },
+        {
+          "id": 1030920630,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/7/g/6/image.related.thumbnail.375x250.p5ait4.13zzqx.png/1651835767736.jpg",
+          "lastModified": 1605408448606,
+          "sponsored": false,
+          "description": "House prices will correct as rates go up.",
+          "photographer": " ",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1605408448606
+        },
+        {
+          "id": 1030920630,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/7/g/6/image.related.afrArticleLead.1536x1010.p5ait4.13zzqx.png/1651835767736.jpg",
+          "lastModified": 1605408448606,
+          "sponsored": false,
+          "description": "House prices will correct as rates go up.",
+          "photographer": " ",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1605408448606
+        },
+        {
+          "id": 1030920630,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/7/g/6/image.related.articleLeadwide.1500x844.p5ait4.13zzqx.png/1651835767736.jpg",
+          "lastModified": 1605408448606,
+          "sponsored": false,
+          "description": "House prices will correct as rates go up.",
+          "photographer": " ",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1605408448606
+        },
+        {
+          "id": 1030920630,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/7/g/6/image.related.afrIndexLead.1536x1010.p5ait4.13zzqx.png/1651835767736.jpg",
+          "lastModified": 1605408448606,
+          "sponsored": false,
+          "description": "House prices will correct as rates go up.",
+          "photographer": " ",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1605408448606
+        },
+        {
+          "id": 1030920630,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/7/g/6/image.related.landscape.1174x783.p5ait4.13zzqx.png/1651835767736.jpg",
+          "lastModified": 1605408448606,
+          "sponsored": false,
+          "description": "House prices will correct as rates go up.",
+          "photographer": " ",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1605408448606
+        },
+        {
+          "id": 1031448526,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/2/3/i/r/y/image.related.articleLeadwide.1500x844.p5ait4.13zzqx.png/1651835767736.jpg",
+          "lastModified": 1651564367770,
+          "sponsored": false,
+          "description": "RBA governor Philip Lowe said he would review the central bank’s forecasting mechanisms. ",
+          "photographer": "Louie Douvis",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1651564367770
+        },
+        {
+          "id": 1031448526,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/2/3/i/r/y/image.related.afrArticleInline.620x0.p5ait4.13zzqx.png/1651835767736.jpg",
+          "lastModified": 1651564367770,
+          "sponsored": false,
+          "description": "RBA governor Philip Lowe said he would review the central bank’s forecasting mechanisms. ",
+          "photographer": "Louie Douvis",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1651564367770
+        }
+      ],
+      "signPost": "OPINION",
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "House prices to fall up to 25pc",
+        "overrideAbstract": "If the RBA relies on its worthless forecasts, prepare for a truly massive fall in house prices."
+      },
+      "timeStamp": 1651793391000
+    },
+  ],
+  "relatedAssets": [],
+  "relatedImages": [],
+  "assetType": "ASSET_LIST",
+  "timeStamp": 1651835766721
+}
